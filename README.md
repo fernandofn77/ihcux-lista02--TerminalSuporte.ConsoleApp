@@ -1,0 +1,1 @@
+# ihcux-lista02--TerminalSuporte.ConsoleApp
